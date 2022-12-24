@@ -18,6 +18,6 @@ I'm F2roq , a 18 years old developer from Egypt 🇪🇬.
 
 ## Contact Methods
 
-- f22roq@gmail.com
-- [F2roq.#0069](https://discordapp.com/users/999353030455603388) on Discord
+- f22roq@gmail.com on Gmail ,
+- [F2roq.#0069](https://discordapp.com/users/999353030455603388) on Discord ,
 - [Don't forget to subscribe to my channel](https://www.youtube.com/@F2roq) on YouTube ..
