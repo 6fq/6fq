@@ -12,9 +12,9 @@ I'm F2roq , a 18 years old developer from Egypt 🇪🇬.
 ## Skills
 
 - 👨‍💻 Front End Web Development ,
-- 📦 Bug Bounty, PHp, SQL ,
+- 📦 Discord.js, PHp, Electron.js ,
 - 🎨 SCSS, CSS ,
-- 📀 MongoDB ,
+- 📀 MongoDB , SQL ,
 
 ## Contact Methods
 
