@@ -1,16 +1,22 @@
-### Hi there 👋
+<div align="center">
+  <img src="./name.svg" />
+</div>
 
-<!--
-**6fq/6fq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋 
 
-Here are some ideas to get you started:
+I'm F2roq , a 18 years old developer from Egypt 🇪🇬.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Contributor @ **** ⚛
+- Full-stack Developer @ **Vallt** 🔮
+
+## Skills
+
+- 👨‍💻 Front End Web Development ,
+- 📦 Bug Bounty, PHp, SQL ,
+- 🎨 SCSS, CSS ,
+- 📀 MongoDB ,
+
+## Contact Methods
+
+- f22roq@gmail.com
+- [F2roq.#0069](https://discordapp.com/users/999353030455603388) on Discord
