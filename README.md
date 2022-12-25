@@ -5,7 +5,6 @@
 ## Hey! 👋 
 
 I'm F2roq , a 18 years old developer from Egypt 🇪🇬.
-![Thanks to all stargazers](https://git-lister.onrender.com/api/stars/6fq/F2roqBotAvatarV4?v&limit=7)
 
 - Contributor @ **Crossfire Epic** ⚛
 - Full-stack Developer @ **Encrypted :/** 🔮
