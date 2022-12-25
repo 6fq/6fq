@@ -9,7 +9,6 @@ I'm F2roq , a 18 years old developer from Egypt 🇪🇬.
 - Contributor @ **Crossfire Epic** ⚛
 - Full-stack Developer @ **Encrypted :/** 🔮
 
-<a href="https://app.daily.dev/f2q"><img src="https://api.daily.dev/devcards/84583e293d754e7498060fbcabef73f2.png?r=dxz" width="400" alt="Oncl F2roq ;'s Dev Card"/></a>
 
 ## Skills
 
