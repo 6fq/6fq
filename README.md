@@ -24,10 +24,6 @@ I'm F2roq , a 18 years old developer from Egypt 🇪🇬.
 - [F2roq.#0069](https://discordapp.com/users/999353030455603388) on Discord ,
 - [Don't forget to subscribe to my channel](https://www.youtube.com/@F2roq) on YouTube ..
 
-<hr>
-<h2>  <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> Github Stats </h2>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=6fq&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=6fq&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=6fq&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=6fq&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MahmoudSaber1&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=6fq1&theme=github_dark&utcOffset=8)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=6fq&show_icons=true&theme=dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=6fq&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
