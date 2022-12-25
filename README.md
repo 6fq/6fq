@@ -17,7 +17,7 @@ I'm F2roq , a 18 years old developer from Egypt 🇪🇬.
 - 📀 MongoDB , SQL ,
 
 <p align="middle">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=6fq&theme=github_dark" width="650" /> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=6fq&theme=github_dark" width="700" /> 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MahmoudSaber1&theme=github_dark" width="350" />
 </p>
 
