@@ -1,9 +1,11 @@
-## Hey! 👋 
-
-I'm F2roq , a 18 years old developer from Egypt 🇪🇬.
 <div align="center">
   <img src="./name.svg" />
 </div>
+
+## Hey! 👋 
+
+I'm F2roq , a 18 years old developer from Egypt 🇪🇬.
+
 - Contributor @ **Crossfire Epic** ⚛
 - Full-stack Developer @ **Encrypted :/** 🔮
 
