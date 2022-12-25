@@ -4,7 +4,7 @@
 
 ## Hey! 👋 
 
-I'm F2roq , a 18 years old developer from Egypt 🇪🇬.
+***I'm F2roq , a 18 years old developer from Egypt 🇪🇬.***
 
 - Contributor @ **Crossfire Epic** ⚛
 - Full-stack Developer @ **Encrypted :/** 🔮
@@ -12,10 +12,10 @@ I'm F2roq , a 18 years old developer from Egypt 🇪🇬.
 
 ## Skills
 
-- 👨‍💻 Front End Web Development ,
-- 📦 Discord.js, PHp, Electron.js ,
-- 🎨 SCSS, CSS ,
-- 📀 MongoDB , SQL ,
+**- 👨‍💻 Front End Web Development ,**
+**- 📦 Discord.js, PHp, Electron.js ,**
+**- 🎨 SCSS, CSS ,**
+**- 📀 MongoDB , SQL ,**
 
 <p align="middle">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=6fq&theme=github_dark" width="650" /> 
