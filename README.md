@@ -14,8 +14,8 @@
 
 - 👨‍💻 **Front End Web Development ,**
 - 📦 **Discord.js, PHp, Electron.js ,**
-**- 🎨 SCSS, CSS ,**
-**- 📀 MongoDB , SQL ,**
+- 🎨 **SCSS, CSS ,**
+- 📀 **MongoDB , SQL ,**
 
 <p align="middle">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=6fq&theme=github_dark" width="650" /> 
