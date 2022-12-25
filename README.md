@@ -4,7 +4,7 @@
 
 ## Hey! 👋 
 
-***I'm F2roq , a 18 years old developer from Egypt 🇪🇬.***
+**I'm F2roq , a 18 years old developer from Egypt 🇪🇬.**
 
 - Contributor @ **Crossfire Epic** ⚛
 - Full-stack Developer @ **Encrypted :/** 🔮
@@ -12,8 +12,8 @@
 
 ## Skills
 
-**- 👨‍💻 Front End Web Development ,**
-**- 📦 Discord.js, PHp, Electron.js ,**
+- 👨‍💻 **Front End Web Development ,**
+- 📦 **Discord.js, PHp, Electron.js ,**
 **- 🎨 SCSS, CSS ,**
 **- 📀 MongoDB , SQL ,**
 
