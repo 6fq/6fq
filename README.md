@@ -27,16 +27,9 @@ I'm F2roq , a 18 years old developer from Egypt 🇪🇬.
 <hr>
 <h2>  <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> Github Stats </h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MahmoudSaber1&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahmoudSaber1&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MahmoudSaber1&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MahmoudSaber1&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MahmoudSaber1&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MahmoudSaber1&theme=github_dark&utcOffset=8)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudSaber1&show_icons=true&theme=dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=6fq&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=6fq&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=6fq&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=6fq&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MahmoudSaber1&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=6fq1&theme=github_dark&utcOffset=8)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=6fq&show_icons=true&theme=dark)
 <hr>
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Connect with me </h2>
 <p>
-  <a href="https://www.linkedin.com/in/mahmoud-saber-49a483214/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
-   <a href="https://www.facebook.com/rogariq147/"><img src="https://img.shields.io/badge/facebook-1b74e4.svg?style=for-the-badge&logo=facebook&logoColor=ffffff"/></a>
-   <a href="mailto:ms3205749@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
-  <a href="https://codesandbox.io/u/Zone0x1"><img src="https://img.shields.io/badge/Code Sand Box-333.svg?style=for-the-badge&logo=codesandbox&logoColor=ffffff"/></a>
-  <a href="https://github.com/MahmoudSaber1"><img src="https://img.shields.io/badge/github-gray.svg?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
-  <a href="https://www.leetcode.com/zone0x1"><img src="https://img.shields.io/badge/leet code-777.svg?style=for-the-badge&logo=leetcode&logoColor=ffffff"/></a>
-</p>
-<br>
+
