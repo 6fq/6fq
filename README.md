@@ -28,6 +28,7 @@ I'm F2roq , a 18 years old developer from Egypt 🇪🇬.
 - [F2roq.#0069](https://discordapp.com/users/999353030455603388) on Discord ,
 - [Don't forget to subscribe to my channel](https://www.youtube.com/@F2roq) on YouTube ..
 
+![Thanks to all stargazers](https://git-lister.onrender.com/api/stars/6fq/F2roqBotAvatarV4?v&limit=7)
 
 
 
