@@ -24,6 +24,4 @@ I'm F2roq , a 18 years old developer from Egypt 🇪🇬.
 - [F2roq.#0069](https://discordapp.com/users/999353030455603388) on Discord ,
 - [Don't forget to subscribe to my channel](https://www.youtube.com/@F2roq) on YouTube ..
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=6fq&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=6fq&theme=github_dark)
